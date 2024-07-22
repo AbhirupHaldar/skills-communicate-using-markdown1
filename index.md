@@ -14,3 +14,16 @@ This is an inline `code block of SQL`
 var avar = "This is a test line"
 print avar
 ```
+###### This is an exmaple of task list:
+- [ ] This is not selected
+- [x] This is selected
+
+> Just a _**list**_
+
+1. This is 1
+1. This is 2
+1. This is 3
+
+- This is hypen 1
+  - This is subhypen 2
+- This is hypen 3
