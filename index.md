@@ -7,3 +7,10 @@
 
 ## This is now a **image**
 ![It is an image](https://octodex.github.com/images/yaktocat.png)
+
+This is an inline `code block of SQL`
+## Below is an example of multiple lines of code
+```javascript
+var avar = "This is a test line"
+print avar
+```
